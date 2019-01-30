@@ -1,6 +1,5 @@
 # @luciabo/tiny
 
-[![npm (scoped)]
-(https://img.shields.io/npm/v/@luciabo/tiny.svg?style=flat)]
+![](https://img.shields.io/npm/v/@luciabo/tiny.svg)
 
 it's the tiniest
